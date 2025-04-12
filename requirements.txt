@@ -1,0 +1,3 @@
+git add requirements.txt
+git commit -m "Add proper requirements.txt file"
+git push -u origin main
