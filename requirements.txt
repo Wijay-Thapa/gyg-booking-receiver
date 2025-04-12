@@ -1,3 +1,4 @@
-git add requirements.txt
-git commit -m "Add proper requirements.txt file"
-git push -u origin main
+Flask==2.2.5
+gunicorn==20.1.0
+gspread==5.12.0
+oauth2client==4.1.3
